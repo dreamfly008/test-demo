@@ -1,0 +1,6 @@
+ ssh-keygen -t rsa -C "dreamfly006"
+
+ cat /Users/Administrator/.ssh/id_rsa.pub  -- 一路回车中找到
+
+ 一路回车 生成  ssh-key
+
